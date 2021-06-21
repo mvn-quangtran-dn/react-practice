@@ -7,18 +7,18 @@ class Header extends React.Component {
             <header>
                 {/* <div class="container"> */}
                     {/* <div class="row"> */}
-                    <div class="nav-left">
-                        <div class="circle-large"></div>
+                    <div className="nav-left">
+                        <div className="circle-large"></div>
                     </div>
-                    <div class="menu">
-                        <a href="#" class="category">Menu 1</a>
-                        <a href="#" class="category">Menu 2</a>
-                        <a href="#" class="category">Menu 3</a>
+                    <div className="menu">
+                        <a href="#" className="category">Menu 1</a>
+                        <a href="#" className="category">Menu 2</a>
+                        <a href="#" className="category">Menu 3</a>
                     </div>
-                    <div class="nav-right">
-                    <span class="circle-small"></span>
-                    <span class="circle-small"></span> 
-                    <span class="circle-small"></span>   
+                    <div className="nav-right">
+                    <span className="circle-small"></span>
+                    <span className="circle-small"></span> 
+                    <span className="circle-small"></span>   
                     </div>
                     {/* </div> */}
                     

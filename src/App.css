@@ -93,3 +93,20 @@ nav {
   align-items: center;
   margin: auto;
 }
+.circle {
+ margin: 0 10px;
+ width: 50px;
+ display: flex;
+ flex-direction: column;
+}
+.circles-group {
+  align-items: center;
+  display: flex;
+  /* margin-left: 30%;
+  margin-right: 30%; */
+  margin-top: 50px;
+  justify-content: center;
+}
+.button-trigger {
+ margin-bottom: 10px;
+}
