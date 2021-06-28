@@ -110,3 +110,9 @@ nav {
 .button-trigger {
  margin-bottom: 10px;
 }
+.register-group {
+  width: 40%;
+  margin: auto;
+  text-align: left;
+  padding: 10px 0;
+}
