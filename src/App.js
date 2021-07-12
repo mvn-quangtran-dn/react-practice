@@ -5,6 +5,7 @@ import Footer from './Footer.js';
 import React from 'react';
 // import RegisterForm from './RegisterForm.js';
 import RegisterFormHook from './RegisterFormHook.js';
+import UseEffectDemo  from './UseEffect';
 
 class App extends React.Component {
   render () {
@@ -13,7 +14,8 @@ class App extends React.Component {
         <Header/>
         {/* <Main/> */}
         {/* <RegisterForm/> */}
-        <RegisterFormHook/>
+        {/* <RegisterFormHook/> */}
+        <UseEffectDemo/>
         <Footer/>
       </div>
     ) 

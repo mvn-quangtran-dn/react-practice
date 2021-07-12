@@ -116,3 +116,9 @@ nav {
   text-align: left;
   padding: 10px 0;
 }
+.active {
+  border: 1px solid;
+}
+.disabled {
+  pointer-events: none;
+}
